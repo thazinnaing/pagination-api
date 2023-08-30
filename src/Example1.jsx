@@ -1,6 +1,6 @@
 import { getPostsPage } from "./api/axios";
 import { useState,useEffect } from "react";
-import PostItem from "./postItem";
+import PostItem from "./singleItems/postItem";
 
 const Example1=()=>{
 
